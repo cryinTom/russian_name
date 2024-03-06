@@ -1,6 +1,6 @@
 {
-  "name": "russian_name",
-  "version": "2.0.1",
+  "name": "@vlasov3087/russian_name",
+  "version": "2.0.2",
   "description": "Getting random Russian names",
   "main": "lib/index.js",
   "types": "lib",
